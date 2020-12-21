@@ -21,7 +21,7 @@ function draw() {
   somthing1.shapeColor = "blue";
 
   
-  four(somthing)
+  four(somthing1, somthing4)
   four(somthing3, somthing4);
 
   if (three(somthing1, somthing2)) {
